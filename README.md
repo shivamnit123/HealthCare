@@ -1,4 +1,5 @@
-![image](https://github.com/shivamnit123/HealthCare/assets/113758155/cd4bba59-4966-4a54-bd48-051579190e44)# Health Booking Website
+## Doctor-Booking-Website
+
 
 ## Table of Contents
 
@@ -12,7 +13,7 @@
 
 <!-- Overview Section -->
 ## Overview
-![App Screenshot](https://github.com/shivamnit123/)
+![image](https://github.com/shivamnit123/HealthCare/assets/113758155/cd4bba59-4966-4a54-bd48-051579190e44)
 
 ## Introduction
 
