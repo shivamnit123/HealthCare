@@ -14,7 +14,7 @@
 <!-- Overview Section -->
 ## Overview
 ![image](https://github.com/shivamnit123/HealthCare/assets/113758155/cd4bba59-4966-4a54-bd48-051579190e44)
-
+![image](https://github.com/shivamnit123/HealthCare/blob/main/log.png)
 ## Introduction
 
 Welcome to the Health Booking Website project! This platform allows users to sign up, log in, schedule appointments with doctors, and receive notifications about their appointment status. Admins have access to manage doctors' profiles and approve/reject user requests to become doctors.
