@@ -1,0 +1,23 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.login-form .ant-form-item-label {
+    text-align: left;
+    font-weight: bold;
+}
+
+.login-form .register-link {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.login-form button {
+    margin-top: 20px;
+    width: 100%;
+}

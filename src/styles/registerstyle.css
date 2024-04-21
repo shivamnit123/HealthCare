@@ -1,0 +1,39 @@
+.log {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    /* Set the height to occupy the full viewport height */
+}
+
+#login {
+    background-color: #A0AEC0;
+}
+
+#login1 {
+    background-color: #A0AEC0;
+}
+
+.register-form {
+    background-color: #CBD5E0;
+}
+
+.form-container {
+    width: 50%;
+    /* Adjust the width of the form container as needed */
+}
+
+.not {
+    color: black;
+    font-weight: 500;
+}
+
+.not:hover {
+    color: rgb(0, 0, 101);
+}
+
+.register-form {
+    border: 1px solid gray;
+    padding: 30px;
+}
